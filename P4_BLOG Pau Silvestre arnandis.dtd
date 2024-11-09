@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+        <!ELEMENT VALORANT (agents+, mapes+)>
+        <!ELEMENT agents (nom, tipus, fecha_entrada_al_joc, habilitats+, foto, descripció)>
+        <!ELEMENT habilitats (habilitat1, habilitat2, habilitat3, habilitat_final, descripcio_habilitat_final)
+        <!ELEMENT mapes (nom, foto, descripció, data_de_eixida)>
+        <!ATTLIST agents nom CDATA #REQUIRED>
+        <!ATTLIST agents tipus CDATA #REQUIRED>
+        <!ATTLIST agents tipus (duelista | centinela | controladors | iniciadors) #REQUIRED>
+        <!ATTLIST agents fecha_entrada_al_joc CDATA #REQUIRED>
+        <!ATTLIST habilitats habilitat1 (curacio | granda_cegadora | stun | dron_o_camera) #REQUIRED>
+        <!ATTLIST habilitats habilitat2 (habilitat_velocitat | arma_especial | fums) #REQUIRED>
+        <!ATTLIST habilitats habilitat3 (clon | teletransport | rastrejador) #REQUIRED>
+        <!ATTLIST habilitats habilitat_final CDATA #REQUIRED>
+        <!ATTLIST mapes data_de_eixida CDATA #REQUIRED>
+        <!ELEMENT nom (#PCDATA)>
+        <!ELEMENT tipus (#PCDATA)>
+        <!ELEMENT habilitat1 (#PCDATA)>
+        <!ELEMENT habilitat2 (#PCDATA)>
+        <!ELEMENT habilitat3 (#PCDATA)>
+        <!ELEMENT habilitat_final (#PCDATA)>
+        <!ELEMENT foto (#PCDATA)>
+        <!ELEMENT descripció (#PCDATA)>
+        <!ELEMENT fecha_entrada_al_joc (#PCDATA)>
+        <!ELEMENT data_de_eixida (#PCDATA)>
+        <!ELEMENT descripcio_habilitat_final (#PCDATA)>
+

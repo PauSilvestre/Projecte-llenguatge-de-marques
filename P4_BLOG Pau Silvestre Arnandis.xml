@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE VALORANT SYSTEM "P4_BLOG Pau Silvestre arnandis.dtd">
+
+<VALORANT>
+    <agents fecha_entrada_al_joc="01-06-2021" nom="Reyna" tipus="duelista">
+        <habilitats habilitat1="curacio" habilitat2="habilitat_velocitat" habilitat3="rastrejador" habilitat_final="Mode emperatriu">
+            <descripcio_habilitat_final>El mode emperatriu fa que Reyna puga entrar al mode de velocitat sempre que mate un enemic y es cure al moment.</descripcio_habilitat_final>
+        </habilitats>
+        <foto>https://es.wikipedia.org/wiki/Archivo:Reyna_(Valorant).png</foto>
+        <descripció>Es una agente de la Ciudad de México con el poder de absorber la
+            energía vital de las almas de las personas a las que mata.
+            Tras verse afectada por un suceso desastroso relacionado con máquinas
+            , Reyna siente una gran aversión por la tecnología y la humanidad,
+            y cree que ella y sus compañeros radiantes(agentes) son el verdadero futuro de la Tierra.</descripció>
+    </agents>
+    <agents fecha_entrada_al_joc="Desde la beta de 2020" nom="Brimstone"  tipus="controladors">
+        <habilitats habilitat1="stun" habilitat2="fums" habilitat3="rastrejador" habilitat_final="Cop Orbital">
+            <descripcio_habilitat_final>Selecciona una part del mapa per fer que un rajos orbitals caiguen del cel
+            provocant la mort o ferint els  enemic. Aquesta habilitat també afecta als companys.</descripcio_habilitat_final>
+        </habilitats>
+        <foto>https://images.app.goo.gl/JS94s1Nrsa2Yj2cK7</foto>
+        <descripció>Procedent dels Estats Units, Brimstone va començar la seua vida adulta com a bomber del BFD i després com a soldat d'un esquadró
+            de les Forces Especials conegut com els Ragged Ravens. Va servir en totes dues professions al costat d'un amic íntim al qual coneixia des
+            de la infància. També es va afiliar a Kingdom Corporation, arribant a convertir-se en veterà de la seua filial K/SEC</descripció>
+    </agents>
+    <agents fecha_entrada_al_joc="15-04-2020" nom="Cypher" tipus="centinela">
+        <habilitats habilitat1="dron_o_camera" habilitat2="fums" habilitat3="rastrejador" habilitat_final="Rastrejador total">
+            <descripcio_habilitat_final>Cypher pot agafar un dels cosos del enemics pes rastrejar a tots els enemics 2 vegades amb una
+            diferencia de 5 segons. Molt més útil que el seu rastrejador base que nomes pot reastrejar als que chafen un dels deus cables</descripcio_habilitat_final>
+        </habilitats>
+        <foto>https://images.app.goo.gl/pp7FZDxHoqPKuuLg8</foto>
+        <descripció>Cypher s'especialitza a aconseguir informació dels enemics i és capaç d'assegurar una area. No hi ha secret fora de perill ni maniobra
+            que passe desapercebuda. Cypher sempre està veient.</descripció>
+    </agents>
+    <agents fecha_entrada_al_joc="07-05-2023" nom="Geko" tipus="iniciadors">
+        <habilitats habilitat1="granda_cegadora" habilitat2="arma_especial" habilitat3="rastrejador" habilitat_final="Thrash">
+            <descripcio_habilitat_final>Thrash es una mascota de Geko que es controlada per ell durant 10 segons y en el moment que que es clique el clic esquerre
+            este saltara cap a la direcció que s'estiga mirant fent que si cau aprop de un enemic el paralitze del i no puga menejarse practicament.</descripcio_habilitat_final>
+        </habilitats>
+        <foto>https://images.app.goo.gl/Qsyc1Wf3HvkCsXpA7</foto>
+        <descripció>Gekko, de Los Angeles, lidera una xicoteta colla de calamitoses criatures. Els seus col·legues prenen la davantera per a dispersar als enemics,
+            mentres que Gekko els perseguix per a després reagrupar-se i repetir el procés.</descripció>
+    </agents>
+    <mapes data_de_eixida="07-09-2024">
+        <nom>SUNSET</nom>
+        <foto>https://images.app.goo.gl/cxeCB19MhxmShDwE8</foto>
+        <descripció>Un desastre en una instal·lació local de Kingdom amenaça amb sepultar el veïnat complet.
+            Visita el teu camió de menjar favorit i després porta la baralla a la ciutat en este mapa tradicional de tres carrils.</descripció>
+    </mapes>
+    <mapes data_de_eixida="01-10-2023">
+        <nom>LOTUS</nom>
+        <foto>https://images.app.goo.gl/b2Vcc6CYpmZmCCDs5</foto>
+        <descripció>Una misteriosa estructura els murs de la qual resguarden un conducte astral irradia poder ancestral.
+            Immenses i monolítiques portes brinden una varietat d'oportunitats de moviment i obrin el camí a tres misteriosos llocs.</descripció>
+    </mapes>
+    <mapes data_de_eixida="22-07-2022">
+        <nom>PEARL</nom>
+        <foto>https://images.app.goo.gl/oa6F46Tc5Jgxbt5RA</foto>
+        <descripció>Els atacants avancen cap als defensors en este mapa de dos llocs, ambientat en una ciutat submarina.
+            Pearl és un mapa enfocat en l'entorn, sense mecàniques. Porta la batalla cap a un Mid compacte o a zones més
+            esteses en el nostre primer mapa en la Terra Omega.</descripció>
+    </mapes>
+    <mapes data_de_eixida="08-09-2021">
+        <nom>FRACTURE</nom>
+        <foto>https://images.app.goo.gl/VuQe9hVD3Pcz1R9b9</foto>
+        <descripció>Un centre d'investigació ultrasecret dividit per un experiment fallit de agents. Amb opcions de defensa tan dividides com el mateix mapa,
+            l'elecció és teua: enfrontar als atacants en el seu propi territori o tancar les escotilles i resistir l'assalt.</descripció>
+    </mapes>
+</VALORANT>
