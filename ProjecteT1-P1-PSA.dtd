@@ -3,7 +3,7 @@
         <!ELEMENT VALORANT (agents+, mapes+)>
         <!ELEMENT agents (nom, tipus, fecha_entrada_al_joc, habilitats+, foto, descripció)>
         <!ELEMENT habilitats (habilitat1, habilitat2, habilitat3, habilitat_final, descripcio_habilitat_final)
-        <!ELEMENT mapes (nom, foto, descripció, data_de_eixida)>
+        <!ELEMENT mapes (nom, foto, descripció, data_de_eixida, millor_agent)>
         <!ATTLIST agents nom CDATA #REQUIRED>
         <!ATTLIST agents tipus CDATA #REQUIRED>
         <!ATTLIST agents tipus (duelista | centinela | controladors | iniciadors) #REQUIRED>
@@ -13,6 +13,7 @@
         <!ATTLIST habilitats habilitat3 (clon | teletransport | rastrejador) #REQUIRED>
         <!ATTLIST habilitats habilitat_final CDATA #REQUIRED>
         <!ATTLIST mapes data_de_eixida CDATA #REQUIRED>
+        <!ATTLIST mapes millor_agent (Reyna | Brimstone | Geko | Cypher) #REQUIRED>
         <!ELEMENT nom (#PCDATA)>
         <!ELEMENT tipus (#PCDATA)>
         <!ELEMENT habilitat1 (#PCDATA)>
@@ -24,4 +25,5 @@
         <!ELEMENT fecha_entrada_al_joc (#PCDATA)>
         <!ELEMENT data_de_eixida (#PCDATA)>
         <!ELEMENT descripcio_habilitat_final (#PCDATA)>
+        <!ELEMENT millor_agent (#PCDATA)>
 
