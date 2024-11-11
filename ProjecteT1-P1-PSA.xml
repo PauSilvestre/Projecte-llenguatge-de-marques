@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!DOCTYPE VALORANT SYSTEM "P4_BLOG Pau Silvestre arnandis.dtd">
+<!DOCTYPE VALORANT SYSTEM "ProjecteT1-P1-PSA.dtd">
 
 <VALORANT>
     <agents fecha_entrada_al_joc="01-06-2021" nom="Reyna" tipus="duelista">
@@ -42,26 +42,26 @@
         <descripció>Gekko, de Los Angeles, lidera una xicoteta colla de calamitoses criatures. Els seus col·legues prenen la davantera per a dispersar als enemics,
             mentres que Gekko els perseguix per a després reagrupar-se i repetir el procés.</descripció>
     </agents>
-    <mapes data_de_eixida="07-09-2024">
+    <mapes data_de_eixida="07-09-2024" millor_agent="Brimstone">
         <nom>SUNSET</nom>
         <foto>https://images.app.goo.gl/cxeCB19MhxmShDwE8</foto>
         <descripció>Un desastre en una instal·lació local de Kingdom amenaça amb sepultar el veïnat complet.
             Visita el teu camió de menjar favorit i després porta la baralla a la ciutat en este mapa tradicional de tres carrils.</descripció>
     </mapes>
-    <mapes data_de_eixida="01-10-2023">
+    <mapes data_de_eixida="01-10-2023" millor_agent="Cypher">
         <nom>LOTUS</nom>
         <foto>https://images.app.goo.gl/b2Vcc6CYpmZmCCDs5</foto>
         <descripció>Una misteriosa estructura els murs de la qual resguarden un conducte astral irradia poder ancestral.
             Immenses i monolítiques portes brinden una varietat d'oportunitats de moviment i obrin el camí a tres misteriosos llocs.</descripció>
     </mapes>
-    <mapes data_de_eixida="22-07-2022">
+    <mapes data_de_eixida="22-07-2022" millor_agent="Geko">
         <nom>PEARL</nom>
         <foto>https://images.app.goo.gl/oa6F46Tc5Jgxbt5RA</foto>
         <descripció>Els atacants avancen cap als defensors en este mapa de dos llocs, ambientat en una ciutat submarina.
             Pearl és un mapa enfocat en l'entorn, sense mecàniques. Porta la batalla cap a un Mid compacte o a zones més
             esteses en el nostre primer mapa en la Terra Omega.</descripció>
     </mapes>
-    <mapes data_de_eixida="08-09-2021">
+    <mapes data_de_eixida="08-09-2021" millor_agent="Reyna">
         <nom>FRACTURE</nom>
         <foto>https://images.app.goo.gl/VuQe9hVD3Pcz1R9b9</foto>
         <descripció>Un centre d'investigació ultrasecret dividit per un experiment fallit de agents. Amb opcions de defensa tan dividides com el mateix mapa,
