@@ -1,6 +1,6 @@
 ## Projecte-llenguatge-de-marques
 
-#**Explicació**
+# **Explicació**
 
 **GENERAL**
 
