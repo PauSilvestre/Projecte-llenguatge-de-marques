@@ -42,6 +42,15 @@
         <descripció>Gekko, de Los Angeles, lidera una xicoteta colla de calamitoses criatures. Els seus col·legues prenen la davantera per a dispersar als enemics,
             mentres que Gekko els perseguix per a després reagrupar-se i repetir el procés.</descripció>
     </agents>
+        <agents fecha_entrada_al_joc="26-03-2024" nom="Clove" tipus="controlador">
+        <habilitats habilitat1="curacio" habilitat2="fums" habilitat3="rastrejador" habilitat_final="segona oportunitat">
+            <descripcio_habilitat_final>Aquesta habilitat final torna a la vida a Clove i durant 15 segons por tornar a la vida. Si aconsegueix eliminar un enemic continuará en vida</descripcio_habilitat_final>
+        </habilitats>
+        <foto>https://images.app.goo.gl/eJFDbveUCtw74W7F6</foto>
+        <descripció>Clove es un agente escocés en VALORANT cuya especialidad es el control del campo de batalla, incluso tras su muerte, lo que permite afectar a los
+            enemigos después de caer. Su habilidad principal implica lanzar fragmentos de "esencia de inmortalidad" que desintegran a los enemigos cercanos por un 
+            tiempo breve. Además, puede desplegar nubes que bloquean la visión de áreas estratégicas, usando esta capacidad antes y después de su caída en combate.</descripció>
+    </agents>
     <mapes data_de_eixida="07-09-2024" millor_agent="Brimstone">
         <nom>SUNSET</nom>
         <foto>https://images.app.goo.gl/cxeCB19MhxmShDwE8</foto>
@@ -66,5 +75,14 @@
         <foto>https://images.app.goo.gl/VuQe9hVD3Pcz1R9b9</foto>
         <descripció>Un centre d'investigació ultrasecret dividit per un experiment fallit de agents. Amb opcions de defensa tan dividides com el mateix mapa,
             l'elecció és teua: enfrontar als atacants en el seu propi territori o tancar les escotilles i resistir l'assalt.</descripció>
+    </mapes>
+    <mapes data_de_eixida="08-09-2021" millor_agent="Reyna">
+        <nom>HAVEN</nom>
+        <foto>https://images.app.goo.gl/24zmZfDfFrszEFt89</foto>
+        <descripció>Las características de Haven incluyen un tercer sitio de púas adicional. Esto no afecta la cantidad de orbes definitivos en el mapa; 
+            los dos orbes definitivos de Haven están presentes en A Long y C Long (Dragón). Las puertas de Mid también tienen paneles destructibles que 
+            las cubren. Mientras estén intactas, absorben el daño y no pueden ser penetradas por disparos. Sin embargo, los paneles tienen 400 HP cada uno 
+            y pueden dañarse, con indicadores de colores que indican cuánta salud les queda (comienza en azul, luego se vuelve amarillo y luego rojo a 
+            medida que reciben más daño). Eventualmente pueden destruirse para permitir que los jugadores atraviesen estas puertas por el resto de la ronda.</descripció>
     </mapes>
 </VALORANT>
