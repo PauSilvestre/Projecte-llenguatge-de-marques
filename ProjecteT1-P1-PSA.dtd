@@ -13,7 +13,7 @@
         <!ATTLIST habilitats habilitat3 (clon | teletransport | rastrejador) #REQUIRED>
         <!ATTLIST habilitats habilitat_final CDATA #REQUIRED>
         <!ATTLIST mapes data_de_eixida CDATA #REQUIRED>
-        <!ATTLIST mapes millor_agent (Reyna | Brimstone | Geko | Cypher) #REQUIRED>
+        <!ATTLIST mapes millor_agent (Reyna | Brimstone | Geko | Cypher | Clove) #REQUIRED>
         <!ELEMENT nom (#PCDATA)>
         <!ELEMENT tipus (#PCDATA)>
         <!ELEMENT habilitat1 (#PCDATA)>
